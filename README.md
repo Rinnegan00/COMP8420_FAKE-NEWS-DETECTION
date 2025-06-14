@@ -1,7 +1,7 @@
 # Fake News Detection using BERT and FastAPI
 
 This project is a part of the COMP8420 (Artificial Intelligence for Text and Vision) Major Assignment at Macquarie University, Session 1, 2025.
-
+The Full project Can acceess Google Drive link - https://drive.google.com/drive/folders/1OdapM4QAEdtdHXGU4ehxR9b5_fxAnAnM?usp=sharing
 ## 🔍 Project Overview
 
 Fake news and misinformation have become major threats in modern society. This project develops a binary text classification system to identify whether a news claim is **True** or **False** using deep learning techniques.
