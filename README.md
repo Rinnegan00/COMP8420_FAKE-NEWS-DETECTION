@@ -75,8 +75,8 @@ POST /predict
 ## 🤝 Contribution
 
 Developed by:
-- **[Your Name]**
-- **[Teammate’s Name]**
+- **Fardin Haque**
+- **Ruijie Du**
 
 ## 📄 License
 
