@@ -1,5 +1,3 @@
-# COMP8420_FAKE-NEWS-DETECTION
-PROJECT TITLE: FAKE NEWS DETECTION USING BERT AND REAL-TIME API INTEGRATION Unit: COMP8420 – Natural Language Processing
 # Fake News Detection using BERT and FastAPI
 
 This project is a part of the COMP8420 (Artificial Intelligence for Text and Vision) Major Assignment at Macquarie University, Session 1, 2025.
